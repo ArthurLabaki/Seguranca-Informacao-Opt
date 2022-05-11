@@ -1,2 +1,2 @@
-# Seguranca-da-Informa-o-Opt
+# Segurança Informação Optativa
 Tópicos Especiais em Segurança da Informação
