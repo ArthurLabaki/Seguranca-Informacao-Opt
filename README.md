@@ -1,5 +1,5 @@
 # Segurança Informação Optativa
 
-## Tópicos Especiais em Segurança da Informação
+Tópicos Especiais em Segurança da Informação
 
-## Matéria ministrada pelo professor Rodrigo Sanches Miani
+Matéria ministrada pelo professor Rodrigo Sanches Miani
