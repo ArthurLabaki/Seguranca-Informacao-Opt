@@ -1,6 +1,6 @@
 # TP1 - Virtualização e conceitos básicos de Linux
 
-O arquivo Seguranca.pdf é o relatorio que contém a resolução dos exercícios propostos para o lab1.
+O arquivo Seguranca.pdf é o relatorio que contém a resolução dos exercícios propostos para esse Lab.
 
 
 ## Ententendo melhor os comandos do exercício 4

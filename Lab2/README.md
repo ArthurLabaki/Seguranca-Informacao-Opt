@@ -1,6 +1,6 @@
 # TP2 - Primeiras atividades de reconhecimento
 
-O arquivo Seguranca.pdf é o relatorio que contém a resolução dos exercícios propostos para o lab2.
+O arquivo Seguranca.pdf é o relatorio que contém a resolução dos exercícios propostos para esse Lab.
 
 
 ## Link da planilha:

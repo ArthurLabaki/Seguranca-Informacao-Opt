@@ -1,6 +1,6 @@
 # TP4 - Varredura (scanning)
 
-O arquivo Seguranca.pdf é o relatorio que contém a resolução dos exercícios propostos para o lab4.
+O arquivo Seguranca.pdf é o relatorio que contém a resolução dos exercícios propostos para esse Lab.
 
 
 ## Link da planilha atualizada:
